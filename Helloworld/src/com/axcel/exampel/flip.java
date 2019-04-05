@@ -18,7 +18,7 @@ public class flip {
 		
 		 for(int j = 2; j > -1; j--) 
 		 {
-			 System.out.println(" "+ Foo[i][j]);
+			// System.out.println(" "+ Foo[i][j]);
 			temp[a][c]=Foo[i][j];
 			
 			c++;
